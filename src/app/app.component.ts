@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
     <li>git commit -m "_"</li>
     <li>git branch "_"</li>
     <li>git checkout _</li>
+    <li>git push -u origin _</li>
 
   </ul>`,
   styleUrls: ['./app.component.css']
