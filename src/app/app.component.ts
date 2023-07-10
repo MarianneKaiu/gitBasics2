@@ -9,8 +9,11 @@ import { Component } from '@angular/core';
     <li>git branch "_"</li>
     <li>git checkout _</li>
     <li>git push -u origin _</li>
-
-  </ul>`,
+  </ul>
+  <ul>
+    <li>git clone</li>
+  </ul>
+  `,
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
