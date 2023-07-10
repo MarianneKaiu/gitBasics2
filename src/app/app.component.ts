@@ -4,9 +4,11 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `<h1>Git basics</h1>
   <ul>
-    <li>Git init</li>
-    <li>Git commit -m "_"</li>
+    <li>git init</li>
+    <li>git commit -m "_"</li>
     <li>git branch "_"</li>
+    <li>git checkout _</li>
+
   </ul>`,
   styleUrls: ['./app.component.css']
 })
