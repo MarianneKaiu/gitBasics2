@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   template: `<h1>Git basics</h1>
   <ul>
     <li>Git init</li>
+    <li>Git commit -m "_"</li>
   </ul>`,
   styleUrls: ['./app.component.css']
 })
